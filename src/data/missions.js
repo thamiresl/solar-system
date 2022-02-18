@@ -2,7 +2,6 @@ const USA = 'Estados Unidos';
 const URSS = 'URSS';
 
 const Missions = [
-  
   {
     name: 'Apollo 11',
     year: '1960',
